@@ -1,0 +1,5 @@
+enum
+{
+	DAMAGE_TEST = 100,
+	MONEY_TEST = 100000
+};
